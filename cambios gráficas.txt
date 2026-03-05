@@ -1,0 +1,7 @@
+•	Gráfica de pastel, titulo, Distribución del nivel de alfabetización de los participantes
+•	Rangos de edad, cambiar el título a "Distribución de participantes según rango de edad”
+•	Edad por rangos, cambiar título a “Distribución de participantes según rango de edad”, el eje Y, colocar frecuencia de participantes
+•	Distribución de etnias, colocar en 1: ladino, 2: maya, 4: xinca, colocar frecuencia de participantes en eje Y
+•	Pre vs post, quitar P6
+•	Pre vs post del resultado final por grupo étnico, colocar 1 en 1: ladino, 2: maya, 4: xinca, 
+•	Las barras donde comparan pre encuesta afirmativo, post encuesta negativo la p7 no está bien jajaja
